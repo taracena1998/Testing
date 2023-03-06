@@ -1,6 +1,6 @@
 """Use the Task type to show test failures"""
 
-from tasks_m import Task
+from src.tasks.tasks_m import Task
 
 def test_task_equality():
     """Different tasks should nod be equal."""

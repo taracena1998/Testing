@@ -1,5 +1,5 @@
 """Test the task data type"""
-from tasks_m import Task
+from src.tasks.tasks_m import Task
 
 
 def test_asdict():
